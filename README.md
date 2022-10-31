@@ -1,1 +1,1 @@
-# Crypt_trading
+# Crypto_trading
